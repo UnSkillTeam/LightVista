@@ -1,7 +1,7 @@
 <h1 align="center">LightVista</h1>
 <p align="center">Лёгкий дистрибутив Windows Vista, который отлично подходит для слабых ПК</p>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/79802366/208661528-f18ddd80-bb96-4d9f-ad6a-efff6ef36c90.png" width="50%" height="50%" align="center">
+<img src="https://user-images.githubusercontent.com/79802366/208661528-f18ddd80-bb96-4d9f-ad6a-efff6ef36c90.png" width="75%" height="75%" align="center">
 </div>
 
 ### :zap: Особенности дистрибтива
